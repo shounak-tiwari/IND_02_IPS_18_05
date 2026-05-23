@@ -1,0 +1,1 @@
+# Write a program for calculate the lcm of two number 
